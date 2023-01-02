@@ -1,0 +1,8 @@
+# GIMP action-history
+
+(history-item "file-quit" 4)
+(history-item "dialogs-preferences" 0)
+(history-item "help-help" 0)
+(history-item "dialogs-about" 1)
+
+# end of action-history
